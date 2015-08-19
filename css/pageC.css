@@ -282,11 +282,13 @@
 	width: 185px;
 	height: 81px;
 	background-image: url(http://img.mukewang.com/55ade2110001708401850081.png);
+	background-image: url(../img/love2.png);
 	z-index: 999999;
 	position: absolute;
 	left: 50%;
 	margin-left: -92.5px;
 	top: 30px;
+	top: 15px;
 	display: none
 }
 .logolightSpeedIn {

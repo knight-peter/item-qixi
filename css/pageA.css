@@ -30,7 +30,7 @@
 	height: 30%;
 	left: -5%;
 	top: 15%;
-	background: url("http://img.mukewang.com/55addfde0001aec501810101.png") no-repeat;
+	background: url("../img/cloud1.png") no-repeat;
 	-webkit-animation-name: smallCloud;
 	-webkit-animation-duration: 30s;
 	-webkit-animation-iteration: infinite;
